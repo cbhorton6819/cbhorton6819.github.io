@@ -1,5 +1,5 @@
 ---
-title: "Telecommunications Industry - Variables Correlated with Retention in High Churn Rate Groups"
+title: "Variables Correlated with Retention for High Churn Rate Groups in the Telecommunications Industry"
 date: 2023-07-04
 tags: [Project]
 ---
