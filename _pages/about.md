@@ -4,7 +4,8 @@ permalink: /about/
 title: "About"
 author_profile: true
 ---
-(Last Updated July 2023)
+(Last Updated Jul. 2023)
+
 
 My name is Colton Horton and I am a current master's student at Western Governors Universiy looking to start my career in Data Science.
 
