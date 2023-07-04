@@ -1,7 +1,7 @@
 # portfolio
 
-GitHub Pages repository. See the live site at https://wzhorton.github.io/portfolio. 
+GitHub Pages repository. See the live site at https://cbhorton.github..io. 
 
-Big thanks to Jacob Merrell (https://jmmerrell.github.io/) for providing a well developed template.
+Big thanks to Zach Horton (https://wzhorton.github.io/) and Jacob Merrell (https://jmmerrell.github.io/) for providing a well developed template.
 
-(Last Updated Nov. 2018)
+(Last Updated Jul. 2023)
