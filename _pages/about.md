@@ -5,8 +5,8 @@ title: "About"
 author_profile: true
 ---
 
-(Last Updated Nov. 2018)
+(Last Updated July 2023)
 
-My name is Zach and I am a current Master's student applying to Ph.D. programs in Statistics.
+My name is Colton Horton and I am a current master's student at Western Governors Universiy looking to start my career in Data Science.
 
-Thank you for visiting my portfolio. Here you will find a selection of projects and presentations I have created during my time as a Statistics M.S. student. They demonstrate my abilities as both a writer and a statistician.
+Thank you for visiting my GitHub. Here you will find a selection of my data projects I have created during my time as a Data Analytics M.S. student. They demonstrate my abilities as both a writer and an analyst.
