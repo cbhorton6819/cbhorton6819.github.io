@@ -5,6 +5,7 @@ title: "About"
 author_profile: true
 ---
 
+# THIS PAGE IS OUTDATED. PLEASE DIRECTLY EDIT INDEX.MD INSTEAD.
 <style type="text/css">
   body{
   font-size: 12pt;
