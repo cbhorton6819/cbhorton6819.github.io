@@ -19,4 +19,5 @@ Files:
 
 [Python Notebook](https://cbhorton.github.io/Churn_ipynb.html/)
 
-<embed src="https://cbhorton.github.io/Churn_and_retention.pdf#zoom=95" width="850" height="1100"  type="application/pdf" />
+Trouble viewing? Click [here](https://cbhorton.github.io/Churn_and_retention.pdf/)
+<iframe frameborder="0" scrolling="no" width="850" height="1100" src="https://cbhorton.github.io/Churn_and_retention.pdf#zoom=100"> </iframe>
