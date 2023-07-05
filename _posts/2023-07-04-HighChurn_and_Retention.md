@@ -10,6 +10,10 @@ In this analysis, I will utilize logistic regression as well as machine learning
 
 This project uses data and summary information from Western Governor's University's Master's of Data Analytics program.
 
-Trouble viewing? Click [here](https://wzhorton.github.io/portfolio/Gompertz.pdf/)
+Trouble viewing? Click [here](https://cbhorton.github.io/Churn_and_retention.pdf/)
 
-<embed src="https://wzhorton.github.io/portfolio/Gompertz.pdf#zoom=95" width="850" height="1100"  type="application/pdf" />
+<embed src="https://cbhorton.github.io/Churn_and_retention.pdf#zoom=95" width="1000" height="1500"  type="application/pdf" />
+
+Additional Files:
+Data Dictionary Click [here](https://cbhorton.github.io/Churn_data_dictionary.pdf/)
+Python Notebook Click [here](https://cbhorton.github.io/Churn_ipynb.html/)
