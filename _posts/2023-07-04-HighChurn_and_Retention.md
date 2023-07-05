@@ -1,5 +1,5 @@
 ---
-title: "Variables Correlated with Retention in High Churn Risk Groups in the Telecommunications Industry"
+title: "Variables Correlated with Retention in High Churn Rate Groups in the Telecommunications Industry"
 date: 2023-07-04
 tags: [_]
 ---
