@@ -1,13 +1,14 @@
 ---
-title: "Variables Correlated with Retention for High Churn Rate Groups in the Telecommunications Industry"
+title: "Variables Correlated with Retention in High Churn Risk Groups in the Telecommunications Industry"
 date: 2023-07-04
 tags: [_]
 ---
 
-Edit edit edit _____
-The Gompertz distribution has historically been used to model adult mortality. Although the approximation is not great, the Gompertz has properties consistent with mortality rates that make it a desirable baseline for modeling. This project explores fundamental properties of this relatively unknown distribution and demonstrates how it might be used. 
+In the telecommunications industry, customer "churn" represents the proportion of customers who terminate their engagement with a service provider. In this fiercely competitive market, where average annual churn rates can reach 25%, prioritizing customer retention over acquisition has become imperative due to the significantly higher costs associated with acquiring new customers. Retaining highly profitable customers stands as a primary objective for many providers, emphasizing the need to accurately forecast and manage the churn risk of individual customers.
 
-This project was the first academic paper I wrote in my M.S. program. It equates to an imperfect but extensive treatment of an unfamiliar topic. As a novice paper it lacks elements of a more refined style, yet it showcases logical flow and detail in writing.
+In this analysis, I will utilize logistic regression as well as machine learning methods to identify which factors are correlated with high churn rates. Furthermore, I will use logistic regression and exploratory data analysis techniques to identify the variables most associated with customer retention in high churn risk groups.
+
+This project uses data and summary information from Western Governor's University's Master's of Data Analytics program.
 
 Trouble viewing? Click [here](https://wzhorton.github.io/portfolio/Gompertz.pdf/)
 
