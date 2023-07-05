@@ -13,11 +13,11 @@ This project uses data and summary information from Western Governor's Universit
 
 Files: 
 
-[Churn and Retention Report](https://cbhorton.github.io/Churn_and_retention.pdf/)
+[Churn and Retention Report](https://cbhorton.github.io/Churn_and_retention.pdf)
 
-[Data Dictionary](https://cbhorton.github.io/Churn_data_dictionary.pdf/)
+[Data Dictionary](https://cbhorton.github.io/Churn_data_dictionary.pdf)
 
-[Python Notebook](https://cbhorton.github.io/Churn_ipynb.html/)
+[Python Notebook](https://cbhorton.github.io/Churn_ipynb.html)
 
-Trouble viewing? Click [here](https://cbhorton.github.io/Churn_and_retention.pdf/)
+Trouble viewing? Click [here](https://cbhorton.github.io/Churn_and_retention.pdf)
 <iframe frameborder="0" scrolling="no" width="850" height="1100" src="https://cbhorton.github.io/Churn_and_retention.pdf#zoom=100"> </iframe>
