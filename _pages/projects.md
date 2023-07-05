@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /data_projects/
-title: "Data Projects"
+title: "Data Analysis Projects"
 author_profile: true
 ---
 
@@ -15,3 +15,8 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
+
+<style type="text/css">
+  body{
+  font-size: 13pt;
+}
