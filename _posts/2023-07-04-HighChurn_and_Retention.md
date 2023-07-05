@@ -11,9 +11,12 @@ In this analysis, I will utilize logistic regression as well as machine learning
 This project uses data and summary information from Western Governor's University's Master's of Data Analytics program.
 
 
-Files:
-Churn and Retention Report [here](https://cbhorton.github.io/Churn_and_retention.pdf/) 
-Data Dictionary [here](https://cbhorton.github.io/Churn_data_dictionary.pdf/) 
-Python Notebook [here](https://cbhorton.github.io/Churn_ipynb.html/) 
+Files: 
+
+[Churn and Retention Report](https://cbhorton.github.io/Churn_and_retention.pdf/)
+
+[Data Dictionary](https://cbhorton.github.io/Churn_data_dictionary.pdf/)
+
+[Python Notebook](https://cbhorton.github.io/Churn_ipynb.html/)
 
 <embed src="https://cbhorton.github.io/Churn_and_retention.pdf#zoom=95" width="850" height="1100"  type="application/pdf" />
