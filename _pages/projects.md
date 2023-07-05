@@ -5,6 +5,11 @@ title: "Data Analysis Projects"
 author_profile: true
 ---
 
+<style type="text/css">
+  body{
+  font-size: 13pt;
+}
+
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
