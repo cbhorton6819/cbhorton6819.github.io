@@ -12,7 +12,7 @@ This project uses data and summary information from Western Governor's Universit
 
 Trouble viewing? Click [here](https://cbhorton.github.io/Churn_and_retention.pdf/)
 
-<embed src="https://cbhorton.github.io/Churn_and_retention.pdf#zoom=95" width="1000" height="1500"  type="application/pdf" />
+<embed src="https://cbhorton.github.io/Churn_and_retention.pdf#zoom=95" width="850" height="1100"  type="application/pdf" />
 
 Additional Files:
 Data Dictionary Click [here](https://cbhorton.github.io/Churn_data_dictionary.pdf/)
