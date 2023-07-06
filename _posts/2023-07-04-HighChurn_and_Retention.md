@@ -15,4 +15,4 @@ This project uses data and summary information from Western Governors University
 [Data Dictionary](https://cbhorton.github.io/Projects/Churn_and_Retention/Data_Dictionary.pdf)
 
 Trouble viewing? Click [here](https://cbhorton.github.io/Projects/Churn_and_Retention/Churn_and_Retention_Report.pdf)
-<iframe frameborder="0" scrolling="no" width="700" height="905" src="https://cbhorton.github.io/Projects/Churn_and_Retention/Churn_and_Retention_Report.pdf#zoom=82"> </iframe>
+<iframe frameborder="0" scrolling="no" width="680" height="880" src="https://cbhorton.github.io/Projects/Churn_and_Retention/Churn_and_Retention_Report.pdf#zoom=80"> </iframe>
