@@ -1,7 +1,7 @@
 ---
 title: "Variables Correlated with Retention in High Churn Rate Groups in the Telecommunications Industry"
 date: 2023-07-04
-tags: [_]
+tags: [Logistic Regression]
 ---
 <br>
 [Python Notebook](https://cbhorton.github.io/Projects/Churn_and_Retention/ipynb.html) , 
