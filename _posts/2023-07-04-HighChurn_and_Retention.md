@@ -8,7 +8,7 @@ In the telecommunications industry, customer "churn" represents the proportion o
 
 In this analysis, I will utilize logistic regression as well as machine learning methods to identify which factors are correlated with high churn rates. Furthermore, I will use logistic regression and exploratory data analysis techniques to identify the variables most associated with customer retention in high churn risk groups.
 
-This project uses data and summary information from Western Governor's University's Master's of Data Analytics program. It is coded in python and uses the following packages: pandas, numpy, matplotlib, sklearn, seaborn, scipy, IPython.
+This project uses data and summary information from Western Governors University's Master's of Data Analytics program. It is coded in python and uses the following packages: pandas, numpy, matplotlib, sklearn, seaborn, scipy, IPython.
 
 
 [Python Notebook](https://cbhorton.github.io/Projects/Churn_and_Retention/ipynb.html) , 
