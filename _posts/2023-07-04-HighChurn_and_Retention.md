@@ -12,7 +12,7 @@ In this analysis, I will utilize logistic regression as well as machine learning
 This project uses data and summary information from Western Governor's University's Master's of Data Analytics program. It is coded in python and uses the following packages: pandas, numpy, matplotlib, sklearn, seaborn, scipy, IPython.
 
 
-[Python Notebook](https://cbhorton.github.io/Projects/Churn_and_Retention/ipynb.html), 
+[Python Notebook](https://cbhorton.github.io/Projects/Churn_and_Retention/ipynb.html) , 
 [Data Dictionary](https://cbhorton.github.io/Projects/Churn_and_Retention/Data_Dictionary.pdf)
 
 Trouble viewing? Click [here](https://cbhorton.github.io/Projects/Churn_and_Retention/Churn_and_Retention_Report.pdf)
