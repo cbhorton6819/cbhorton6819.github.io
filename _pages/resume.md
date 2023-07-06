@@ -9,7 +9,7 @@
 }
 </style>
 
-(Last Updated: Jul. 2023) 1200 frame
+(Last Updated: Jul. 2023)
 
 Trouble viewing? Click [here](https://cbhorton.github.io/resume.pdf)
 
