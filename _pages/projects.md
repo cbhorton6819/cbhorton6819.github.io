@@ -16,7 +16,4 @@ author_profile: true
   {% endfor %}
 {% endfor %}
 
-<style type="text/css">
-  body{
-  font-size: 13pt;
-}
+

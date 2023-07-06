@@ -5,12 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-<style type="text/css">
-  body{
-  font-size: 13pt;
-}
-</style>
-
 (Last Updated Jul. 2023)
 
 My name is Colton Horton and I am currently a master's student at Western Governors Universiy looking to start a career in Data Science.

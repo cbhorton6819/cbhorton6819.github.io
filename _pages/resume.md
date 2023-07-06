@@ -3,12 +3,6 @@
  permalink: /resume/
 ---
 
-<style type="text/css">
-  body{
-  font-size: 13pt;
-}
-</style>
-
 (Last Updated: Jul. 2023)
 
 Trouble viewing? Click [here](https://cbhorton.github.io/resume.pdf)
