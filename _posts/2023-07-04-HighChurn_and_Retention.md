@@ -4,6 +4,7 @@ date: 2023-07-04
 tags: [_]
 ---
 
+<br><br>
 
 In the telecommunications industry, customer "churn" represents the proportion of customers who terminate their engagement with a service provider. In this competitive market, where average annual churn rates can reach 25%, prioritizing customer retention over acquisition has become imperative due to the significantly higher costs associated with acquiring new customers. Retaining highly profitable customers stands as a primary objective for many providers, emphasizing the need to accurately forecast and manage the churn risk of individual customers.
 
@@ -11,6 +12,7 @@ In this analysis, I will utilize logistic regression as well as machine learning
 
 This project uses data and summary information from Western Governor's University's Master's of Data Analytics program. It is coded in python and uses the following packages: pandas, numpy, matplotlib, sklearn, seaborn, scipy, IPython.
 
+<br><br>
 
 [Python Notebook](https://cbhorton.github.io/Projects/Churn_and_Retention/ipynb.html) , 
 [Data Dictionary](https://cbhorton.github.io/Projects/Churn_and_Retention/Data_Dictionary.pdf)
