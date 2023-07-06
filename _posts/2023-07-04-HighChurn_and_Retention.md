@@ -4,7 +4,6 @@ date: 2023-07-04
 tags: [_]
 ---
 <br>
-
 [Python Notebook](https://cbhorton.github.io/Projects/Churn_and_Retention/ipynb.html) , 
 [Data Dictionary](https://cbhorton.github.io/Projects/Churn_and_Retention/Data_Dictionary.pdf)
 
