@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /data_projects/
+permalink: /projects/
 title: "Data Projects"
 author_profile: true
 ---
