@@ -3,7 +3,7 @@
  permalink: /resume/
 ---
 
-(Last Updated: Jul. 2023)
+(Last Updated: Oct. 2023)
 
 Trouble viewing? Click [here](https://cbhorton.github.io/resume.pdf)
 

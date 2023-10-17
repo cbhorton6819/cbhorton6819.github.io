@@ -1,5 +1,5 @@
 ---
-title: "Customer Churn Analysis Using Logistic Regression in the Telecommunications Industry
+title: "Customer Churn Analysis in the Telecommunications Industry
 "
 date: 2023-07-04
 tags: [Regression Analysis]
