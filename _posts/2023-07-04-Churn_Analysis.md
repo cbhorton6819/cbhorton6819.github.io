@@ -10,4 +10,4 @@ tags: [Regression Analysis]
 [Data](https://cbhorton6819.github.io/Projects/Churn_Analysis/churn_clean.csv)
 
 Trouble viewing? Click [here](https://cbhorton6819.github.io/Projects/Churn_Analysis/Churn_Report.pdf)
-<iframe frameborder="0" scrolling="no" width="850" height="1200" src="https://cbhorton6819.github.io/Projects/Churn_Analysis/Churn_Report.pdf#zoom=100"> </iframe>
+<iframe frameborder="0" scrolling="no" width="850" height="1100" src="https://cbhorton6819.github.io/Projects/Churn_Analysis/Churn_Report.pdf#zoom=100"> </iframe>
