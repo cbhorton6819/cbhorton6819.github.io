@@ -13,7 +13,7 @@ The focus of this A/B test is to use weekly games played and retention rates to 
 The data for this analysis comes from DataCamp: “Mobile Games A/B Testing with Cookie Cats”.
 
 <br>
-[Python Notebook](https://cbhorton6819.github.io/Projects/Mobile_Game_Gate_Placement/Mobile_Game_Gate_Placement.ipynb)
+[Python Notebook](https://cbhorton6819.github.io/Projects/Mobile_Game_Gate_Placement/Mobile_Game_Gate_Placement.ipynb) , 
 [Data](https://cbhorton6819.github.io/Projects/Mobile_Game_Gate_Placement/cookie_cats.csv)
 
 Trouble viewing? Click [here](https://cbhorton6819.github.io/Projects/Mobile_Game Gate_Placement/Executive_Summary.pdf)

@@ -6,7 +6,7 @@ tags: [Regression Analysis]
 ---
 <br>
 [Python Notebook](https://cbhorton6819.github.io/Projects/Churn_Analysis/Churn_Analysis.ipynb) , 
-[Data Dictionary](https://cbhorton6819.github.io/Projects/Churn_Analysis/Data_Dictionary.pdf) ,
+[Data Dictionary](https://cbhorton6819.github.io/Projects/Churn_Analysis/Data_Dictionary.pdf) , 
 [Data](https://cbhorton6819.github.io/Projects/Churn_Analysis/churn_clean.csv)
 
 Trouble viewing? Click [here](https://cbhorton6819.github.io/Projects/Churn_Analysis/Churn_Report.pdf)
