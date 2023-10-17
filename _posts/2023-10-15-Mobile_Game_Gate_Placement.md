@@ -2,7 +2,7 @@
 title: "Mobile Game “Gate” Placement A/B Testing
 "
 date: 2023-10-15
-tags: [A/B Testing][Executive Summary]
+tags: [A/B Testing, Executive Summary]
 ---
 Mobile games frequently incorporate “gates” into their games. As a player progresses past certain levels, they will be forced to either wait a certain period of time or pay in order to continue through the gate. This gate serves two primary purposes:
 1. Increase in-app purchases
