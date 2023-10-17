@@ -11,6 +11,7 @@ Mobile games frequently incorporate “gates” into their games. As a player pr
 The focus of this A/B test is to use weekly games played and retention rates to determine which level this gate should be placed (level 30 or level40) for the popular mobile game Cookie Cats.
 
 The data for this analysis comes from DataCamp: “Mobile Games A/B Testing with Cookie Cats”.
+
 <br>
 [Python Notebook](https://cbhorton6819.github.io/Projects/Mobile_Game_Gate_Placement/Mobile_Game_Gate_Placement.ipynb)
 [Data](https://cbhorton6819.github.io/Projects/Mobile_Game_Gate_Placement/cookie_cats.csv)
