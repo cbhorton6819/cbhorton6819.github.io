@@ -1,8 +1,8 @@
 ---
-title: "Customer Churn Analysis in the Telecommunications Industry
+title: "Customer Churn Analysis in the Telecommunications Industry (Academic Report)
 "
 date: 2023-07-04
-tags: [Regression Analysis, Academic Report]
+tags: [Regression Analysis]
 ---
 <br>
 [Python Notebook](https://cbhorton6819.github.io/Projects/Churn_Analysis/Churn_Analysis.ipynb) , 
