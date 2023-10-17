@@ -17,4 +17,4 @@ The data for this analysis comes from DataCamp: “Mobile Games A/B Testing with
 [Data](https://cbhorton6819.github.io/Projects/Mobile_Game_Gate_Placement/cookie_cats.csv)
 
 Trouble viewing? Click [here](https://cbhorton6819.github.io/Projects/Mobile_Game Gate_Placement/Executive_Summary.pdf)
-<iframe frameborder="0" scrolling="no" width="850" height="700" src="https://cbhorton6819.github.io/Projects/Mobile_Game_Gate_Placement/Executive_Summary.pdf#zoom=50"> </iframe>
+<iframe frameborder="0" scrolling="no" width="850" height="700" src="https://cbhorton6819.github.io/Projects/Mobile_Game_Gate_Placement/Executive_Summary.pdf#zoom=60"> </iframe>
