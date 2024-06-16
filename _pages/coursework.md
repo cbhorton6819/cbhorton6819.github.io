@@ -1,0 +1,4 @@
+---
+ title: "Coursework"
+ permalink: /coursework/
+---
