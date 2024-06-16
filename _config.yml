@@ -116,7 +116,7 @@ author:
   avatar           : "/photos/headshot.png"
   bio              : "Aspiring data scientist."
   location         : "American Fork, UT"
-  email            : "cbhorton6819@gmail.com"
+  email            : 
   links:
     - label: "cbhorton6819@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
