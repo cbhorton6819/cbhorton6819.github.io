@@ -1,4 +1,5 @@
 ---
  title: "About Me"
- permalink: /
+ permalink: /about_me
+ author_profile: true
 ---
