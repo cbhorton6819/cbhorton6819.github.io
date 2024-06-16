@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "About Me"
+    url: /about_me
   - title: "Resume"
     url: /resume/
   - title: "Data Projects"
