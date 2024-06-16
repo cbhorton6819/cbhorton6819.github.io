@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -114,14 +114,14 @@ analytics:
 author:
   name             : "Colton B. Horton"
   avatar           : "/photos/headshot.png"
-  bio              : "Aspiring data scientist."
+  bio              : "Aspiring data scientist!"
   location         : "American Fork, UT"
   linkedin         : "cbhorton6819"
   email            : "cbhorton6819@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:cbhorton6819@gmail.com"
+      # url: "mailto:your.email@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
