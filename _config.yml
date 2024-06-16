@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Portfolio"
+title                    : "Colton B. Horton"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Personal Portfolio"
-description              : "Personal portfolio."
+name                     : 
+description              : 
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -112,7 +112,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Colton B. Horton"
+  name             : 
   avatar           : "/photos/headshot.png"
   bio              : "Aspiring data scientist!"
   location         : "American Fork, UT"
