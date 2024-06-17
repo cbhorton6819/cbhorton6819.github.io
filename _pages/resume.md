@@ -16,8 +16,6 @@
     <li>Member of WGU NSLS Honor Society</li>
 </ul>
 
-<br>
-
 <p style="font-weight:bold; margin-bottom: 5px;">Brigham Young University</p>
 <p style="font-size:80%; font-style:italic; opacity:0.7; margin-top: 5px; margin-bottom: 5px;">B.S. in Microbiology</p>
 <ul style="font-size:80%">
