@@ -11,10 +11,17 @@
 
 <p style="font-weight:bold; margin-bottom: 5px;">Western Governors University</p>
 <p style="font-size:80%; font-style:italic; opacity:0.7; margin-top: 5px; margin-bottom: 5px;">M.S. in Data Analytics &emsp; <span style="font-style:normal;">|</span> &emsp; Dec. 2022 - Jul. 2024</p>
-<ul style="font-size:80%">
+<ol style="font-size:80%">
     <li>Member of WGU NSLS Honor Society</li>
-    <li>Links to university skill certifications:<a href="https://api.badgr.io/public/assertions/zcgeU4EmQjOKf8Ixdq-Vbw" target="_blank">Data Preparation</a>, <a href="https://api.badgr.io/public/assertions/eAFGVvw5Reya2ogQb_vThQ" target="_blank">Data Analytics Fundamentals</a>, <a href="https://api.badgr.io/public/assertions/dpJ4G5H7SUeKL-xvjcVJUg" target="_blank">Advanced Data Modeling</a></li>
-</ul>
+    <li>
+        Links to university skill certifications:
+        <ul>
+            <li><a href="https://api.badgr.io/public/assertions/zcgeU4EmQjOKf8Ixdq-Vbw" target="_blank">Data Preparation</a></li>
+            <li><a href="https://api.badgr.io/public/assertions/eAFGVvw5Reya2ogQb_vThQ" target="_blank">Data Analytics Fundamentals</a></li>
+            <li><a href="https://api.badgr.io/public/assertions/dpJ4G5H7SUeKL-xvjcVJUg" target="_blank">Advanced Data Modeling</a></li>
+        </ul>
+    </li>
+</ol>
 
 <p style="font-weight:bold; margin-bottom: 5px;">Brigham Young University</p>
 <p style="font-size:80%; font-style:italic; opacity:0.7; margin-top: 5px; margin-bottom: 5px;">B.S. in Microbiology &emsp; <span style="font-style:normal;">|</span> &emsp; May 2018 - Apr. 2022</p>
