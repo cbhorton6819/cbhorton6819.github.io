@@ -5,6 +5,8 @@
  author_profile: true
 ---
 
+## * Education
+
 <body>
 
 <p style="font-size:140%; text-decoration:underline;">Education</p>
@@ -24,6 +26,8 @@
 </body>
 
 <br>
+
+## * Experiences
 
 <body>
 
