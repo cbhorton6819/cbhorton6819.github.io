@@ -5,14 +5,7 @@
  author_profile: true
 ---
 
-<style>
-    p {
-        padding-top: 10px;
-        padding-bottom: 10px;
-    }
-</style>
-
-<p style="font-weight:bold;">Western Governors University</p>
+<p style="font-weight:bold; border-bottom: 10px transparent;">Western Governors University</p>
 <p style="font-size:80%; font-style:italic; opacity:0.7;">December 2020 - July 2024.</p>
 <ul style="font-size:80%">
     <li>NSLS Honor Society Member</li>
