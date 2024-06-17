@@ -3,11 +3,7 @@
  title: "Resume"
  permalink: /resume/
  author_profile: true
- toc: true
- toc_sticky: true
 ---
-
-## * Education
 
 <body>
 
@@ -28,8 +24,6 @@
 </body>
 
 <br>
-
-## * Experiences
 
 <body>
 
@@ -62,6 +56,30 @@
 <p style="font-size:80%; font-style:italic; opacity:0.7; margin-top: 5px; margin-bottom: 5px;">Provo, UT &emsp; <span style="font-style:normal;">|</span> &emsp; Aug. 2018 - Aug 2019</p>
 <ul style="font-size:80%">
     <li>*more info*</li>
+</ul>
+
+</body>
+
+<br>
+
+<body>
+
+<p style="font-size:140%; text-decoration:underline;">Skills</p>
+
+<p style="font-weight:bold; margin-bottom: 5px;">Programming Languages</p>
+<ul style="font-size:80%">
+    <li>Python: 2 years</li>
+    <li>R: 1.5 years</li>
+    <li>SQL: 1 year</li>
+    <li>Visual Basic: 6 months</li>
+</ul>
+
+<p style="font-weight:bold; margin-bottom: 5px;">Software Programs</p>
+<ul style="font-size:80%">
+    <li>Microsoft Excel/Suite</li>
+    <li>Tableau</li>
+    <li>PostgreSQL</li>
+    <li>RapidMiner</li>
 </ul>
 
 </body>
