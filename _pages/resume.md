@@ -5,6 +5,8 @@
  author_profile: true
 ---
 
+<p style="font-size:150%; font-style:underline;">Education</p>
+
 <body>
 
 <p style="font-weight:bold; margin-bottom: 5px;">Western Governors University</p>
