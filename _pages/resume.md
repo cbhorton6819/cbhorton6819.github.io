@@ -5,7 +5,7 @@
  author_profile: true
 ---
 
-<p style="font-size:120%; text-decoration:underline;">Education</p>
+<p style="font-size:140%; text-decoration:underline;">Education</p>
 
 <body>
 
