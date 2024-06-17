@@ -13,6 +13,10 @@
 <p style="font-size:80%; font-style:italic; opacity:0.7; margin-top: 5px; margin-bottom: 5px;">M.S. in Data Analytics &emsp; <span style="font-style:normal;">|</span> &emsp; Dec. 2022 - Jul. 2024</p>
 <ul style="font-size:80%">
     <li>Member of WGU NSLS Honor Society</li>
+    <li>Links to university skill certifications: *add the links*</li>
+        <li>Data Preparation</li>
+        <li>Data Analytics Fundamentals</li>
+        <li>Advanced Data Modeling</li>
 </ul>
 
 <p style="font-weight:bold; margin-bottom: 5px;">Brigham Young University</p>
@@ -34,28 +38,37 @@
 <p style="font-size:80%; font-style:italic; opacity:0.7; margin-top: 5px; margin-bottom: 5px;">Remote &emsp; <span style="font-style:normal;">|</span> &emsp; May 2024 - Present</p>
 <ul style="font-size:80%">
     <li>Anticipated internship end date: August 2024.</li>
-    <li>*more info*</li>
+    <li>Building statistical models to analyze call center and customer experience data.</li>
+    <li>Using data visualization tools to communicate trends to key figures in the company.</li>
+    <li>Implemented a variety of machine learning algorithms to make predictive forecasts.</li>
+    <li>Assisted in database migration and validation.</li>
 </ul>
 
 <p style="font-weight:bold; margin-bottom: 5px;">Underwriting Analyst</p>
 <p style="font-size:80%; margin-top: 5px; margin-bottom: 5px;">EMI Health</p>
 <p style="font-size:80%; font-style:italic; opacity:0.7; margin-top: 5px; margin-bottom: 5px;">Murray, UT &emsp; <span style="font-style:normal;">|</span> &emsp; Jul. 2023 - May 2024</p>
 <ul style="font-size:80%">
-    <li>*more info*</li>
+    <li>Building medical quotes using actuarial models and group risk evaluation.</li>
+    <li>Data pre-processing and entry.</li>
+    <li>Pool and group health data analysis.</li>
+    <li>Preparing executive presentations and interactive dashboards.</li>
 </ul>
 
 <p style="font-weight:bold; margin-bottom: 5px;">Quantitative Financial Analyst Intern</p>
 <p style="font-size:80%; margin-top: 5px; margin-bottom: 5px;">Family retail account</p>
 <p style="font-size:80%; font-style:italic; opacity:0.7; margin-top: 5px; margin-bottom: 5px;">Remote &emsp; <span style="font-style:normal;">|</span> &emsp; Aug. 2023 - Dec. 2023</p>
 <ul style="font-size:80%">
-    <li>*more info*</li>
+    <li>Research, implement, log, and analyze a variety of small account option strategies.</li>
+    <li>Gained firsthand experiencing directly placing orders and managing positions.</li>
 </ul>
 
 <p style="font-weight:bold; margin-bottom: 5px;">Teaching/Course Assistant & Tutor</p>
 <p style="font-size:80%; margin-top: 5px; margin-bottom: 5px;">BYU Department of Statistics & BYU Independent Study</p>
 <p style="font-size:80%; font-style:italic; opacity:0.7; margin-top: 5px; margin-bottom: 5px;">Provo, UT &emsp; <span style="font-style:normal;">|</span> &emsp; Aug. 2018 - Aug 2019</p>
 <ul style="font-size:80%">
-    <li>*more info*</li>
+    <li>Course: Stat 121 Principles of Statistics (4 total semesters) & Psych 308 Psychological Statistics (2 terms).</li>
+    <li>Tutored students individually and in groups in both virtual and in-person settings.</li>
+    <li>Trained and worked with a team of other TA/tutors to improve student experiences.</li>
 </ul>
 
 </body>
@@ -80,6 +93,14 @@
     <li>Tableau</li>
     <li>PostgreSQL</li>
     <li>RapidMiner</li>
+</ul>
+
+<p style="font-weight:bold; margin-bottom: 5px;">Personal</p>
+<ul style="font-size:80%">
+    <li>Trend Analysis</li>
+    <li>Predictive Analytics</li>
+    <li>Database Management</li>
+    <li>Data Visualization</li>
 </ul>
 
 </body>
