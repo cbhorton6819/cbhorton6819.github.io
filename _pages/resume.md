@@ -70,7 +70,7 @@
 <p style="font-size:80%; margin-top: 5px; margin-bottom: 5px;">BYU Department of Statistics & BYU Independent Study</p>
 <p style="font-size:80%; font-style:italic; opacity:0.7; margin-top: 5px; margin-bottom: 5px;">Provo, UT &emsp; <span style="font-style:normal;">|</span> &emsp; Aug. 2018 - Aug 2019</p>
 <ul style="font-size:80%">
-    <li>Course: Stat 121 Principles of Statistics (4 total semesters) & Psych 308 Psychological Statistics (2 terms).</li>
+    <li>Courses: Stat 121 Principles of Statistics (4 total semesters) & Psych 308 Psychological Statistics (2 terms).</li>
     <li>Tutored students individually and in groups in both virtual and in-person settings.</li>
     <li>Trained and worked with a team of other TA/tutors to improve student experiences.</li>
 </ul>
