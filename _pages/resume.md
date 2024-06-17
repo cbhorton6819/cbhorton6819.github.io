@@ -3,6 +3,7 @@
  title: "Resume"
  permalink: /resume/
  author_profile: true
+ toc: True
 ---
 
 <body>
@@ -22,6 +23,8 @@
 </ul>
 
 </body>
+
+<br>
 
 <body>
 
