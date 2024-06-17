@@ -38,7 +38,7 @@
 <p style="font-size:140%; text-decoration:underline;">Experiences</p>
 
 <p style="font-weight:bold; margin-bottom: 5px;">Data Analyst Intern</p>
-<p style="font-size:80%; margin-top: 5px; margin-bottom: 5px;">First Energy Corp</p>
+<p style="font-size:80%; margin-top: 5px; margin-bottom: 5px;">First Energy Corp.</p>
 <p style="font-size:80%; font-style:italic; opacity:0.7; margin-top: 5px; margin-bottom: 5px;">Remote &emsp; <span style="font-style:normal;">|</span> &emsp; May 2024 - Present</p>
 <ul style="font-size:80%">
     <li>Anticipated internship end date: August 2024.</li>

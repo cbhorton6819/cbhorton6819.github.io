@@ -112,7 +112,7 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "Colton B. Horton"
   avatar           : "/photos/headshot.png"
   bio              : "M.S. Data Analytics\n\nData analyst intern at FirstEnergy Corp and aspiring data scientist! 
   I have a particular interest in bayesian inference and deep learning."
