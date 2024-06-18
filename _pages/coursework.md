@@ -60,7 +60,8 @@
 
 <p style="font-weight:bold; margin-bottom: 5px;">D212 - Data Mining II</p>
 <ul style="font-size:80%">
-    <li>Cluster analysis using unsupervised machine learning models</li>
+    <li>Cluster analysis using unsupervised machine learning models.</li>
+    <li>Advanced principle component analysis applications.</li>
     <li>Measuring association rules in lift analysis.</li>
 </ul>
 
