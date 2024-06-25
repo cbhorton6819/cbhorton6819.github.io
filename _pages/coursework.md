@@ -62,7 +62,7 @@
 <ul style="font-size:80%">
     <li>Cluster analysis using unsupervised machine learning models.</li>
     <li>Advanced principle component analysis applications.</li>
-    <li>Measuring association rules in lift analysis.</li>
+    <li>Market basket analysis and recommendation algorithms.</li>
 </ul>
 
 <p style="font-weight:bold; margin-bottom: 5px;">D213 - Advanced Data Analytics</p>
