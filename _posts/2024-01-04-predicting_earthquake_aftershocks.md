@@ -3,4 +3,4 @@ title: "Predicting Earthquake Aftershocks"
 tags: [Statistics]
 ---
 
-Placeholder
+Using Cox regression to perform survival analysis on earthquake aftershocks from around the world.
