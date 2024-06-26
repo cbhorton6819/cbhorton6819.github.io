@@ -1,6 +1,6 @@
 ---
 title: "Amazon Review Sentiment Analysis"
-tags: [Machine Learning / Artificial Intelligence]
+tags: [Machine Learning / AI]
 ---
 
 Placeholder

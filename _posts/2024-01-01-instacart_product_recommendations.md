@@ -1,6 +1,6 @@
 ---
 title: "Instacart Product Recommendations"
-tags: [Machine Learning / Artificial Intelligence]
+tags: [Machine Learning / AI]
 ---
 
 Placeholder
