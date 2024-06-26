@@ -6,7 +6,3 @@
 ---
 
 ** Transferring projects in progress **
-
-{% for post in site.posts %}
-  {% include tag-list.html %}
-{% endfor %}
