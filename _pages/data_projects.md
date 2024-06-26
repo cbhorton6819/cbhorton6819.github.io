@@ -6,3 +6,7 @@
 ---
 
 ** Transferring projects in progress **
+
+{% for post in site.pages %}
+  {% include archive-single.html %}
+{% endfor %}
