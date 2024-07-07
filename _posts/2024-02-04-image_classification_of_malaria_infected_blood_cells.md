@@ -8,15 +8,9 @@ This is my WGU Master's Program Capstone! Building a convolutional neural networ
 ---
 
 <br>
-Academic Report:
-<br>
-<iframe frameborder="0" scrolling="no" width="800" height="1000" src="https://cbhorton6819.github.io/project_files/image_classification/report.pdf#zoom=100"> </iframe>
-Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/image_classification/report.pdf)
-
-<br>
 PowerPoint Presentation:
 <br>
-<iframe frameborder="0" scrolling="no" width="1000" height="800" src="https://cbhorton6819.github.io/project_files/image_classification/presentation.pdf#zoom=100"> </iframe>
+<iframe frameborder="0" scrolling="no" width="900" height="750" src="https://cbhorton6819.github.io/project_files/image_classification/presentation.pdf#zoom=100"> </iframe>
 Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/image_classification/presentation.pdf)
 
 <br>
@@ -24,3 +18,9 @@ Executive Summary:
 <br>
 <iframe frameborder="0" scrolling="no" width="800" height="1000" src="https://cbhorton6819.github.io/project_files/image_classification/executive_summary.pdf#zoom=100"> </iframe>
 Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/image_classification/executive_summary.pdf)
+
+<br>
+Academic Report:
+<br>
+<iframe frameborder="0" scrolling="no" width="800" height="1000" src="https://cbhorton6819.github.io/project_files/image_classification/report.pdf#zoom=100"> </iframe>
+Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/image_classification/report.pdf)
