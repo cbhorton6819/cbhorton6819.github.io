@@ -20,15 +20,11 @@ Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/mobil
 
 ** TESTING ADDING THE NOTEBOOK DIRECTLY IN
 
-<html>
 <head>
 
 <meta charset="utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
-
-
-
 
 <title>Mobile App A/B Testing</title>
 
@@ -601,4 +597,3 @@ $(document).ready(function () {
 </script>
 
 </body>
-</html>
