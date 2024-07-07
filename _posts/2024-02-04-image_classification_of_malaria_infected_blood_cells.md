@@ -8,6 +8,8 @@ images of malaria-infected blood work.
 
 ---
 
+<p style="font-size:140%; text-decoration:underline;">Executive Summary</p>
+
 <p style="font-weight:bold; margin-bottom: 5px;">Research Question</p>
 
 Can convolutional neural networks (CNNs) be used to identify malaria-infected red blood cells
@@ -83,11 +85,11 @@ accelerating diagnostics, improving access and speed to treatment, and potential
 malaria-related deaths. This success also highlights machine learning's potential in other global
 health initiatives.
 
+<p style="font-size:140%; text-decoration:underline;">PowerPoint Presentation</p>
+
 <iframe frameborder="0" scrolling="no" width="900" height="540" src="https://cbhorton6819.github.io/project_files/image_classification/presentation.pdf#zoom=100"> </iframe>
 Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/image_classification/presentation.pdf)
 
-<br>
-Academic Report:
-<br>
+<p style="font-size:140%; text-decoration:underline;">Academic Report</p>
 <iframe frameborder="0" scrolling="no" width="750" height="1000" src="https://cbhorton6819.github.io/project_files/image_classification/report.pdf#zoom=100"> </iframe>
 Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/image_classification/report.pdf)
