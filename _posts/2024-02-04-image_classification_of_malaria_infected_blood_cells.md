@@ -20,13 +20,13 @@ Project files and resources:
 
 <p style="font-size:140%; text-decoration:underline;">PowerPoint Presentation</p>
 
-<iframe frameborder="0" scrolling="no" width="900" height="540" src="https://cbhorton6819.github.io/project_files/image_classification/presentation.pdf#zoom=100"> </iframe>
+<iframe frameborder="0" scrolling="no" width="900" height="540" src="https://cbhorton6819.github.io/project_files/image_classification/presentation.pdf#zoom=33"> </iframe>
 Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/image_classification/presentation.pdf)
 
 <p style="font-size:140%; text-decoration:underline;">Executive Summary</p>
-<iframe frameborder="0" scrolling="no" width="750" height="1000" src="https://cbhorton6819.github.io/project_files/image_classification/executive_summary.pdf#zoom=100"> </iframe>
+<iframe frameborder="0" scrolling="no" width="750" height="1000" src="https://cbhorton6819.github.io/project_files/image_classification/executive_summary.pdf#zoom=90"> </iframe>
 Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/image_classification/executive_summary.pdf)
 
 <p style="font-size:140%; text-decoration:underline;">Academic Report</p>
-<iframe frameborder="0" scrolling="no" width="750" height="1000" src="https://cbhorton6819.github.io/project_files/image_classification/report.pdf#zoom=100"> </iframe>
+<iframe frameborder="0" scrolling="no" width="750" height="1000" src="https://cbhorton6819.github.io/project_files/image_classification/report.pdf#zoom=90"> </iframe>
 Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/image_classification/report.pdf)
