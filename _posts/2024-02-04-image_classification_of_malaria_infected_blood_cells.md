@@ -16,7 +16,7 @@ Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/image
 <br>
 PowerPoint Presentation:
 <br>
-<iframe frameborder="0" scrolling="no" width="800" height="500" src="https://cbhorton6819.github.io/project_files/image_classification/presentation.pdf#zoom=100"> </iframe>
+<iframe frameborder="0" scrolling="no" width="1000" height="800" src="https://cbhorton6819.github.io/project_files/image_classification/presentation.pdf#zoom=100"> </iframe>
 Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/image_classification/presentation.pdf)
 
 <br>
