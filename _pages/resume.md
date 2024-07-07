@@ -5,6 +5,8 @@
  author_profile: true
 ---
 
+View PDF version <a href="https://cbhorton6819.github.io/resume.pdf" target="_blank">here</a>
+
 <body>
 
 <p style="font-size:140%; text-decoration:underline;">Education</p>
