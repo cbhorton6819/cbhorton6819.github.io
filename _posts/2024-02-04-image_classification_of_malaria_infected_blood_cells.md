@@ -4,3 +4,19 @@ tags: [Machine Learning]
 ---
 
 This is my WGU Master's Program Capstone! Building a convolutional neural network (CNN) to classify images of malaria-infected blood work.
+
+<br>
+
+Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/image_classification/report.pdf)
+<iframe frameborder="0" scrolling="no" width="850" height="1150" src="https://cbhorton6819.github.io/project_files/image_classification/report.pdf#zoom=100"> </iframe>
+
+<br>
+
+Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/image_classification/presentation.pdf)
+<iframe frameborder="0" scrolling="no" width="1150" height="850" src="https://cbhorton6819.github.io/project_files/image_classification/presentation.pdf#zoom=100"> </iframe>
+
+<br>
+
+Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/image_classification/executive_summary.pdf)
+<iframe frameborder="0" scrolling="no" width="850" height="1150" src="https://cbhorton6819.github.io/project_files/image_classification/executive_summary.pdf#zoom=100"> </iframe>
+
