@@ -10,15 +10,15 @@ images of malaria-infected blood work.
 
 Project files and resources:
 
-[Kaggle Repository (link)](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria) , 
+<a href="https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria" target="_blank">Kaggle Repository Link</a>
 
-[Python Notebook (link)](https://nbviewer.org/urls/cbhorton6819.github.io/project_files/image_classification/capstone.ipynb) , 
+<a href="https://nbviewer.org/urls/cbhorton6819.github.io/project_files/image_classification/capstone.ipynb" target="_blank">Python Notebook Viewer</a>
 
-[Full Academic Report (pdf)](https://cbhorton6819.github.io/project_files/image_classification/report.pdf) , 
+[Full Academic Report pdf](https://cbhorton6819.github.io/project_files/image_classification/report.pdf)
 
-[Executive Summary (pdf)](https://cbhorton6819.github.io/project_files/image_classification/executive_summary.pdf) , 
+[Executive Summary pdf](https://cbhorton6819.github.io/project_files/image_classification/executive_summary.pdf)
 
-[PowerPoint Presentation (pdf)](https://cbhorton6819.github.io/project_files/image_classification/presentation.pdf)
+[PowerPoint Presentation pdf](https://cbhorton6819.github.io/project_files/image_classification/presentation.pdf)
 
 ---
 
