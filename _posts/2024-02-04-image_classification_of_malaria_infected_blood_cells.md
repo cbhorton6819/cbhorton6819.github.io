@@ -10,7 +10,7 @@ This is my WGU Master's Program Capstone! Building a convolutional neural networ
 <br>
 PowerPoint Presentation:
 <br>
-<iframe frameborder="0" scrolling="no" width="900" height="750" src="https://cbhorton6819.github.io/project_files/image_classification/presentation.pdf#zoom=100"> </iframe>
+<iframe frameborder="0" scrolling="no" width="900" height="600" src="https://cbhorton6819.github.io/project_files/image_classification/presentation.pdf#zoom=100"> </iframe>
 Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/image_classification/presentation.pdf)
 
 <br>
