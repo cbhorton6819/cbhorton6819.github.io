@@ -13,17 +13,14 @@ Optimizing player experience for the mobile game "Cookie Cats" using continuous 
 
 ---
 
-<p style="font-size:140%; text-decoration:underline;">PowerPoint Presentation</p>
+<!--<p style="font-size:140%; text-decoration:underline;">PowerPoint Presentation</p>
 
 <iframe frameborder="0" scrolling="no" width="900" height="540" src="https://cbhorton6819.github.io/project_files/mobile_app/presentation.pdf#zoom=33"> </iframe>
-Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/mobile_app/presentation.pdf)
+Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/mobile_app/presentation.pdf)-->
 
 ** TESTING ADDING THE NOTEBOOK DIRECTLY IN
 
-<!DOCTYPE html>
-
 <html>
-
 <head>
 
 <meta charset="utf-8" />
