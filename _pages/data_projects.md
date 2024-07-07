@@ -7,6 +7,8 @@
 
 ***
 
-** Transferring projects in progress **
+** Old portfolio got corrupted and I am rebuilding it again. **
+
+** Transferring projects still in progress **
 
 ***
