@@ -8,8 +8,10 @@ images of malaria-infected blood work.
 
 ---
 
+Project files and resources:
+
 [Kaggle Repository](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria) , 
-[Python Notebook](https://cbhorton6819.github.io/project_files/image_classification/capstone.ipynb) , 
+[Python Notebook](https://nbviewer.org/urls/cbhorton6819.github.io/project_files/image_classification/capstone.ipynb) , 
 [Full Academic Report](https://cbhorton6819.github.io/project_files/image_classification/report.pdf) , 
 [Executive Summary](https://cbhorton6819.github.io/project_files/image_classification/executive_summary.pdf) , 
 [PowerPoint Presentation](https://cbhorton6819.github.io/project_files/image_classification/presentation.pdf)
