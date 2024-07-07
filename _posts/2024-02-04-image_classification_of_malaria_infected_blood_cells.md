@@ -8,17 +8,9 @@ images of malaria-infected blood work.
 
 ---
 
-Project files and resources:
+<p style="font-size:140%; text-decoration:underline;">Project Introduction</p>
 
-<a href="https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria" target="_blank">Kaggle Repository Link</a>
-
-<a href="https://nbviewer.org/urls/cbhorton6819.github.io/project_files/image_classification/capstone.ipynb" target="_blank">Python Notebook Viewer</a>
-
-[Full Academic Report pdf](https://cbhorton6819.github.io/project_files/image_classification/report.pdf)
-
-[Executive Summary pdf](https://cbhorton6819.github.io/project_files/image_classification/executive_summary.pdf)
-
-[PowerPoint Presentation pdf](https://cbhorton6819.github.io/project_files/image_classification/presentation.pdf)
+&emsp;This project was broken into 3 different submissions for my master's program capstone: a <a href="https://cbhorton6819.github.io/project_files/image_classification/presentation.pdf" target="_blank">PowerPoint presentation</a> for a relatively non-technical audience, a 3 page <a href="https://cbhorton6819.github.io/project_files/image_classification/executive_summary.pdf" target="_blank">executive summary</a> for a technical audience, and a <a href="https://cbhorton6819.github.io/project_files/image_classification/report.pdf" target="_blank">full academic report</a> detailing the ins and outs of the project. The images used in this project were downloaded from this <a href="https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria" target="_blank">Kaggle repository</a>. The 3 different submissions can be seen below and my Python notebook can be viewed <a href="https://nbviewer.org/urls/cbhorton6819.github.io/project_files/image_classification/capstone.ipynb" target="_blank">here</a>.
 
 ---
 
