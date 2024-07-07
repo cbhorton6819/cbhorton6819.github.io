@@ -8,7 +8,7 @@ This is my WGU Master's Program Capstone! Building a convolutional neural networ
 <br>
 
 Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/image_classification/report.pdf)
-<iframe frameborder="0" scrolling="no" width="800" height="1100" src="https://cbhorton6819.github.io/project_files/image_classification/report.pdf#zoom=100"> </iframe>
+<iframe frameborder="0" scrolling="no" width="800" height="1000" src="https://cbhorton6819.github.io/project_files/image_classification/report.pdf#zoom=100"> </iframe>
 
 <br>
 
@@ -18,5 +18,5 @@ Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/image
 <br>
 
 Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/image_classification/executive_summary.pdf)
-<iframe frameborder="0" scrolling="no" width="800" height="1100" src="https://cbhorton6819.github.io/project_files/image_classification/executive_summary.pdf#zoom=100"> </iframe>
+<iframe frameborder="0" scrolling="no" width="800" height="1000" src="https://cbhorton6819.github.io/project_files/image_classification/executive_summary.pdf#zoom=100"> </iframe>
 
