@@ -1,4 +1,4 @@
 ---
 title: "B Spline Analysis"
-tags: [Statistics]
+tags: [Statistical Modeling]
 ---

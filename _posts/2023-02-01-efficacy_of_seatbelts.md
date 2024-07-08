@@ -1,6 +1,6 @@
 ---
 title: "Efficacy of Seatbelt Laws"
-tags: [Statistics]
+tags: [Statistical Modeling]
 ---
 
 Examining the efficacy of 2 seatbelt laws in the UK during the late 20th century using 

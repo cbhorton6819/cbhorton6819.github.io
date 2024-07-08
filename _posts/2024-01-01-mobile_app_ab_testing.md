@@ -1,6 +1,6 @@
 ---
 title: "Mobile App A/B Testing"
-tags: [Statistics]
+tags: [Statistical Modeling]
 ---
 
 Optimizing player experience for the mobile game "Cookie Cats" using continuous and categorical A/B testing methods.
@@ -13,5 +13,5 @@ Optimizing player experience for the mobile game "Cookie Cats" using continuous 
 ---
 
 <p style="font-size:140%; text-decoration:underline;">PowerPoint Presentation</p>
-<iframe frameborder="0" scrolling="no" width="900" height="540" src="https://cbhorton6819.github.io/project_files/mobile_app/presentation.pdf#zoom=33"> </iframe>
+<iframe frameborder="0" scrolling="no" width="900" height="540" src="https://cbhorton6819.github.io/project_files/mobile_app/presentation.pdf#zoom=88"> </iframe>
 Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/mobile_app/presentation.pdf)
