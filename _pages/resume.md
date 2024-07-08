@@ -86,7 +86,7 @@ View PDF version <a href="https://cbhorton6819.github.io/resume.pdf" target="_bl
 <p style="font-size:140%; text-decoration:underline;">Skills</p>
 
 <p style="font-weight:bold; margin-bottom: 5px;">Programming Languages</p>
-<ul style="font-size:80%">
+<ul style="font-size:80%; margin-bottom: 1.33em">
     <li>Python: 2 years</li>
     <li>R: 1.5 years</li>
     <li>SQL: 1 year</li>
@@ -94,7 +94,7 @@ View PDF version <a href="https://cbhorton6819.github.io/resume.pdf" target="_bl
 </ul>
 
 <p style="font-weight:bold; margin-bottom: 5px;">Software Programs</p>
-<ul style="font-size:80%">
+<ul style="font-size:80%; margin-bottom: 1.33em">
     <li>Microsoft Excel/Suite</li>
     <li>Tableau</li>
     <li>PostgreSQL</li>
@@ -102,7 +102,7 @@ View PDF version <a href="https://cbhorton6819.github.io/resume.pdf" target="_bl
 </ul>
 
 <p style="font-weight:bold; margin-bottom: 5px;">Personal</p>
-<ul style="font-size:80%">
+<ul style="font-size:80%; margin-bottom: 1.33em">
     <li>Trend Analysis</li>
     <li>Predictive Analytics</li>
     <li>Database Management</li>
