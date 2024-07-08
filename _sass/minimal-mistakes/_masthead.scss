@@ -10,6 +10,7 @@
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
   z-index: 20;
+  background-color: #f6f6f6;
 
   &__inner-wrap {
     @include clearfix;
@@ -36,11 +37,13 @@
     a {
       text-decoration: none;
     }
+    background-color: #f6f6f6;
   }
 }
 
 .site-logo img {
   max-height: 2rem;
+  background-color: #f6f6f6;
 }
 
 .site-title {
@@ -51,11 +54,13 @@
   align-self: center;
   font-weight: bold;
   // z-index: 20;
+  background-color: #f6f6f6;
 }
 
 .site-subtitle {
   display: block;
   font-size: $type-size-8;
+  background-color: #f6f6f6;
 }
 
 .masthead__menu {
@@ -71,6 +76,7 @@
     @include breakpoint($small) {
       float: right;
     }
+    background-color: #f6f6f6;
   }
 
   ul {
@@ -79,6 +85,7 @@
     clear: both;
     list-style-type: none;
   }
+  background-color: #f6f6f6;
 }
 
 .masthead__menu-item {
@@ -90,4 +97,5 @@
     padding-right: 2em;
     font-weight: 700;
   }
+  background-color: #f6f6f6;
 }
