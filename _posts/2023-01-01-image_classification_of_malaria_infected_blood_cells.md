@@ -22,18 +22,15 @@ images of malaria-infected blood work.
 <body style="font-size: 90%;">
 
 <p style="font-size:140%; text-decoration:underline;">PowerPoint Presentation</p>
-<span style="font-style: italic; font-size: 80%;">Trouble viewing? Click 
-[here](https://cbhorton6819.github.io/project_files/image_classification/presentation.pdf)</span>
+<span style="font-style: italic; font-size: 80%;">Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/image_classification/presentation.pdf)</span>
 <iframe frameborder="0" scrolling="no" width="900" height="540" src="https://cbhorton6819.github.io/project_files/image_classification/presentation.pdf#zoom=33"> </iframe>
 
 <p style="font-size:140%; text-decoration:underline;">Executive Summary</p>
-<span style="font-style: italic; font-size: 80%;">Trouble viewing? Click 
-[here](https://cbhorton6819.github.io/project_files/image_classification/executive_summary.pdf)</span>
+<span style="font-style: italic; font-size: 80%;">Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/image_classification/executive_summary.pdf)</span>
 <iframe frameborder="0" scrolling="no" width="750" height="1000" src="https://cbhorton6819.github.io/project_files/image_classification/executive_summary.pdf#zoom=90"> </iframe>
 
 <p style="font-size:140%; text-decoration:underline;">Academic Report</p>
-<span style="font-style: italic; font-size: 80%;">Trouble viewing? Click 
-[here](https://cbhorton6819.github.io/project_files/image_classification/report.pdf)</span>
+<span style="font-style: italic; font-size: 80%;">Trouble viewing? Click [here](https://cbhorton6819.github.io/project_files/image_classification/report.pdf)</span>
 <iframe frameborder="0" scrolling="no" width="750" height="1000" src="https://cbhorton6819.github.io/project_files/image_classification/report.pdf#zoom=90"> </iframe>
 
 </body>
