@@ -6,7 +6,7 @@ tags: [Machine Learning]
 This is my WGU Master's Program Capstone! Building a convolutional neural network (CNN) to classify 
 images of malaria-infected blood work.
 
-<span style="font-weight:bold;">Date:</span> June 30, 2024
+<span style="font-weight:bold;">Date:</span> June 2024
 
 ---
 

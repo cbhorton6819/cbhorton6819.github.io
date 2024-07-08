@@ -5,6 +5,8 @@ tags: [Statistical Modeling]
 
 Optimizing player experience for the mobile game "Cookie Cats" using continuous and categorical A/B testing methods.
 
+<span style="font-weight:bold;">Date:</span> March 2023
+
 ---
 
 <p style="font-size:140%; text-decoration:underline;">Project Introduction</p>

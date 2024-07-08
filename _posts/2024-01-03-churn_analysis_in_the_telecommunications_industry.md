@@ -6,6 +6,8 @@ tags: [Statistical Modeling]
 This is my D208 final! Describing the key drivers to customer churn in a telecommunications company using 
 logistic and lasso regression.
 
+<span style="font-weight:bold;">Date:</span> July 2023
+
 ---
 
 <p style="font-size:140%; text-decoration:underline;">Project Introduction</p>
