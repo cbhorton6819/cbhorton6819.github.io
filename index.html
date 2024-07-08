@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: home
 title: "About Me"
 permalink: /
 author_profile: true
@@ -29,13 +29,3 @@ My areas of interest include:
     <li>Deep Learning</li>
 </ul>
 -->
-
-{% include base_path %}
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% include paginator.html %}
