@@ -21,7 +21,7 @@
       <li><a href="{{ first_page_path }}">1</a></li>
     {% endif %}
 
-    {% assign page_start = 1<!--2--> %}
+    {% assign page_start = 2 %}
     {% if paginator.page > 4 %}
       {% assign page_start = paginator.page | minus: 2 %}
       {% comment %} Ellipsis for truncated links {% endcomment %}
