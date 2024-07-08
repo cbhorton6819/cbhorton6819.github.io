@@ -25,17 +25,21 @@
     -ms-flex-pack: justify;
     justify-content: space-between;
     font-family: $sans-serif-narrow;
+    background-color: #f6f6f6;
 
     @include breakpoint($x-large) {
       max-width: $max-width;
+      background-color: #f6f6f6;
     }
 
     nav {
       z-index: 10;
+      background-color: #f6f6f6;
     }
 
     a {
       text-decoration: none;
+      background-color: #f6f6f6;
     }
     background-color: #f6f6f6;
   }
@@ -69,12 +73,14 @@
   margin-right: 0;
   width: 100%;
   clear: both;
+  background-color: #f6f6f6;
 
   .site-nav {
     margin-left: 0;
 
     @include breakpoint($small) {
       float: right;
+      background-color: #f6f6f6;
     }
     background-color: #f6f6f6;
   }
@@ -84,6 +90,7 @@
     padding: 0;
     clear: both;
     list-style-type: none;
+    background-color: #f6f6f6;
   }
   background-color: #f6f6f6;
 }
@@ -92,10 +99,12 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  background-color: #f6f6f6;
 
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+    background-color: #f6f6f6;
   }
   background-color: #f6f6f6;
 }
