@@ -86,4 +86,7 @@ I will add a page number to each of the following class descriptions to point wh
     <li>Natural language processing.</li>
 </ul>
 
+<p style="font-weight:bold; margin-bottom: 5px;">D214 - Data Analytics Graduate Capstone
+<span style="font-style:italic; font-size:60%; margin-left:10px;">(pg. 9)</span></p>
+
 </body>
