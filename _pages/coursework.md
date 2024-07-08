@@ -6,8 +6,8 @@
 ---
 
 
-The official WGU coursework descriptions are contained within their <a href="https://www.wgu.edu/content/dam/wgu-65-assets/western-governors/documents/program-guides/information-technology/MSDA.pdf" target="_blank">program guidebook</a>. 
-I will add a page number to each of the following class descriptions to point where they can be found in the guidebook.
+<p style="font-style: italic; font-size: 90%;">The official WGU coursework descriptions are contained within their <a href="https://www.wgu.edu/content/dam/wgu-65-assets/western-governors/documents/program-guides/information-technology/MSDA.pdf" target="_blank">program guidebook</a>. 
+I will add a page number to each of the following class descriptions to point where they can be found in the guidebook.</p>
 
 <body>
 
