@@ -5,9 +5,14 @@
  author_profile: true
 ---
 
+
+The official WGU coursework descriptions are contained within their <a href="https://www.wgu.edu/content/dam/wgu-65-assets/western-governors/documents/program-guides/information-technology/MSDA.pdf" target="_blank">program guidebook</a>. 
+I will add a page number to each of the following class descriptions to point where they can be found in the guidebook.
+
 <body>
 
-<p style="font-weight:bold; margin-bottom: 5px;">D204 - The Data Analytics Journey</p>
+<p style="font-weight:bold; margin-bottom: 5px;">D204 - The Data Analytics Journey
+<span style="font-style:italic; font-size:50%; margin-left:10px;">(pg. 5)</span></p>
 <ul style="font-size:80%">
     <li>Define key performance indicators for a data analytics project.</li>
     <li>Determine orgnizational requirements.</li>
