@@ -88,5 +88,9 @@ I will add a page number to each of the following class descriptions to point wh
 
 <p style="font-weight:bold; margin-bottom: 5px;">D214 - Data Analytics Graduate Capstone
 <span style="font-style:italic; font-size:60%; margin-left:10px;">(pg. 9)</span></p>
+<ul style="font-size:80%">
+    <li>Creating and completing a unique capstone project.</li>
+    <li>I did mine on <a href="https://cbhorton6819.github.io/image_classification_of_malaria_infected_blood_cells/" target="_blank">convolution neural networks</a>.</li>
+</ul>
 
 </body>
