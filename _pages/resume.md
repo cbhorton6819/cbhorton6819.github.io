@@ -93,7 +93,7 @@ View PDF version <a href="https://cbhorton6819.github.io/resume.pdf" target="_bl
     <li>Visual Basic: 6 months</li>
 </ul>
 
-<p style="font-weight:bold; margin-bottom: 5px;">Software Programs</p>
+<p style="font-weight:bold; margin-bottom: 5px;">Software</p>
 <ul style="font-size:80%; margin-bottom: 1.33em">
     <li>Microsoft Excel/Suite</li>
     <li>Tableau</li>
