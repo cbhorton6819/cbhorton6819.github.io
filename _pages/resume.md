@@ -51,7 +51,7 @@ View PDF version <a href="https://cbhorton6819.github.io/resume.pdf" target="_bl
 </ul>
 
 <p style="font-weight:bold; margin-bottom: 5px;">Underwriting Analyst</p>
-<p style="font-size:80%; margin-top: 5px; margin-bottom: 5px;">EMI Health</p>
+<p style="font-size:80%; margin-top: 5px; margin-bottom: 5px;"><a href="https://emihealth.com" target="_blank">EMI Health</a></p>
 <p style="font-size:80%; font-style:italic; opacity:0.7; margin-top: 5px; margin-bottom: 5px;">Hybrid - Murray, UT &emsp; <span style="font-style:normal;">|</span> &emsp; Jul. 2023 - May 2024</p>
 <ul style="font-size:80%">
     <li>Building medical quotes using actuarial models and group risk evaluation.</li>
