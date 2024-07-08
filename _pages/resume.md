@@ -101,10 +101,10 @@ View PDF version <a href="https://cbhorton6819.github.io/resume.pdf" target="_bl
     <li>RapidMiner</li>
 </ul>
 
-<p style="font-weight:bold; margin-bottom: 5px;">Personal</p>
+<p style="font-weight:bold; margin-bottom: 5px;">Analytical</p>
 <ul style="font-size:80%; margin-bottom: 1.33em">
-    <li>Trend Analysis</li>
-    <li>Predictive Analytics</li>
+    <li>Trend Modeling</li>
+    <li>Predictive Inference</li>
     <li>Database Management</li>
     <li>Data Visualization</li>
 </ul>
