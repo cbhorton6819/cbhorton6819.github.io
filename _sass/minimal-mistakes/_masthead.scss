@@ -10,7 +10,6 @@
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
   z-index: 20;
-  background-color: #f6f6f6;
 
   &__inner-wrap {
     @include clearfix;
@@ -42,7 +41,6 @@
 
 .site-logo img {
   max-height: 2rem;
-  background-color: #f6f6f6;
 }
 
 .site-title {
@@ -52,7 +50,6 @@
   -ms-flex-item-align: center;
   align-self: center;
   font-weight: bold;
-  background-color: #f6f6f6;
   // z-index: 20;
 }
 
@@ -67,7 +64,6 @@
   margin-right: 0;
   width: 100%;
   clear: both;
-  background-color: #f6f6f6;
 
   .site-nav {
     margin-left: 0;
@@ -94,5 +90,4 @@
     padding-right: 2em;
     font-weight: 700;
   }
-  background-color: #f6f6f6;
 }
