@@ -1,5 +1,5 @@
 ---
-title: "___ Non-linear Regression Analysis"
+title: "Energy Consumption Non-linear Regression Analysis"
 tags: [Bayesian Inference]
 ---
 

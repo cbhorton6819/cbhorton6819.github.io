@@ -1,5 +1,5 @@
 ---
-title: "___ Reinforcement Learning"
+title: "Game Reinforcement Learning"
 tags: [Artificial Intelligence]
 ---
 

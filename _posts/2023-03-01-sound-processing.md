@@ -3,4 +3,4 @@ title: "Accent Sound Processing"
 tags: [Artificial Intelligence]
 ---
 
-___ Classification
+Recurrent Neural Network (RNN) Multivariate Classification

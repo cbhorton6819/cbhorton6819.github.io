@@ -1,6 +1,6 @@
 ---
-title: "___ Video Processing"
+title: "Movie Scene Video Processing"
 tags: [Artificial Intelligence]
 ---
 
-___ ___
+Convolutional Neural Network (CNN) Multivariate Classification

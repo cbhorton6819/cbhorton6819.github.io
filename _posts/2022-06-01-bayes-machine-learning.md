@@ -1,5 +1,5 @@
 ---
-title: "___ Bayesian Machine Learning"
+title: "Predicting Medical Charges Using Bayesian Machine Learning"
 tags: [Bayesian Inference]
 ---
 
