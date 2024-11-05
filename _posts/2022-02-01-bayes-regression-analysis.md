@@ -3,4 +3,4 @@ title: "Outlier Robust Regression Analysis"
 tags: [Bayesian Inference]
 ---
 
-Bayesian t-distributed Linear Regresison
+t-distributed Linear Regresison
