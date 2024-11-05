@@ -1,5 +1,5 @@
 ---
-title: "___ Bayesian Non-linear Regression"
+title: "___ Non-linear Regression Analysis"
 tags: [Bayesian Inference]
 ---
 

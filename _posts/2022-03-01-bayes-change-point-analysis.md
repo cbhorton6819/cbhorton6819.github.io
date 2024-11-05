@@ -1,5 +1,5 @@
 ---
-title: "Car Accident Fatality Rate Change Point Analysis"
+title: "Car Accident Fatalities Change Point Analysis"
 tags: [Bayesian Inference]
 ---
 
